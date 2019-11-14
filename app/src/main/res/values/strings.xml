@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android2</string>
+    <string name="channel_name">Notification channel</string>
+    <string name="channel_description">Notification channel for Android2 app</string>
+    <string name="notification_title">New Product has been added</string>
+    <string name="go_to_list">Go to list view</string>
 </resources>
