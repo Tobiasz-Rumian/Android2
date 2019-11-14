@@ -4,4 +4,5 @@
     <string name="channel_description">Notification channel for Android2 app</string>
     <string name="notification_title">New Product has been added</string>
     <string name="go_to_list">Go to list view</string>
+    <string name="channel_id">com.example.android2.NotificationChannel</string>
 </resources>
